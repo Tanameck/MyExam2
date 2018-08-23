@@ -1,0 +1,12 @@
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\bin\Debug\netstandard2.0\prjMyExam2.deps.json
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\bin\Debug\netstandard2.0\prjMyExam2.dll
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\bin\Debug\netstandard2.0\prjMyExam2.pdb
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.csprojAssemblyReference.cache
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.csproj.CoreCompileInputs.cache
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.AssemblyInfoInputs.cache
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.AssemblyInfo.cs
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.dll
+C:\MyExam2\prjMyExam2\prjMyExam2\prjMyExam2\obj\Debug\netstandard2.0\prjMyExam2.pdb
